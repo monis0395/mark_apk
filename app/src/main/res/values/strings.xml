@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mark</string>
+    <string name="title_activity_scan_fp">ScanFPActivity</string>
+    <string name="hostname">http://192.168.0.100/mark_demo/</string>
+</resources>
